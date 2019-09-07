@@ -2669,7 +2669,7 @@ a:hover:after {
 
 .landing-data-right p {
     font-family: Lato, sans-serif;
-    font-size: 1.5em
+    font-size: 1.3em
 }
 
 @keyframes chevron {
@@ -3842,8 +3842,13 @@ img {
         font-size: 2.2em
     }
 
+    .landing-data-right {
+        font-size: 1.2em;
+        padding: 1em;
+    }
     .landing-data-right p {
-        font-size: 1.3em
+        font-size: 1.2em;
+    
     }
 }
 
@@ -3922,7 +3927,6 @@ img {
 
     .landing-data {
         flex-direction: column;
-        margin: 10em 0 0 0;
         padding: 0
     }
 
@@ -4018,7 +4022,7 @@ img {
     }
 
     .landing-data {
-        margin-top: 10em
+        
     }
 
     #app {
@@ -4261,7 +4265,7 @@ img {
     white-space: nowrap;
     /* Keeps the content on a single line */
     margin: 0 auto;
-    margin-right: 80px;
+    
     /* Gives that scrolling effect as the typing happens */
     letter-spacing: .15em;
     /* Adjust as needed */
