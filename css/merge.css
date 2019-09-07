@@ -4153,7 +4153,7 @@ img {
     }
 
     .landing-data {
-        margin-top: 8.2em
+        font-size: 1em;
     }
 
     .landing-data-right p {
@@ -4257,7 +4257,7 @@ img {
 
 .app p {
     font-family: Lato, sans-serif;
-    font-size: 3em;
+    font-size: 2.3em;
     overflow: hidden;
     /* Ensures the content is not revealed until the animation */
     border-right: .15em solid orange;
